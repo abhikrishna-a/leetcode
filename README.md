@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhikrishna-a/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/abhikrishna-a/leetcode/tree/master/0014-longest-common-prefix) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhikrishna-a/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/abhikrishna-a/leetcode/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/abhikrishna-a/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
