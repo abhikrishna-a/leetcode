@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhikrishna-a/leetcode/tree/master/0014-longest-common-prefix) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abhikrishna-a/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
