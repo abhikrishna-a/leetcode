@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhikrishna-a/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/abhikrishna-a/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3024-type-of-triangle](https://github.com/abhikrishna-a/leetcode/tree/master/3024-type-of-triangle) |
 ## String
 |  |
