@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhikrishna-a/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3024-type-of-triangle](https://github.com/abhikrishna-a/leetcode/tree/master/3024-type-of-triangle) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abhikrishna-a/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhikrishna-a/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhikrishna-a/leetcode/tree/master/0014-longest-common-prefix) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhikrishna-a/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abhikrishna-a/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/0912-sort-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhikrishna-a/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
