@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/abhikrishna-a/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhikrishna-a/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Bit Manipulation
 |  |
