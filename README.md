@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhikrishna-a/leetcode/tree/master/0014-longest-common-prefix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhikrishna-a/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhikrishna-a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhikrishna-a/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhikrishna-a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhikrishna-a/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhikrishna-a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/abhikrishna-a/leetcode/tree/master/3024-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhikrishna-a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhikrishna-a/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
