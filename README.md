@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/abhikrishna-a/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [1075-project-employees-i](https://github.com/abhikrishna-a/leetcode/tree/master/1075-project-employees-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/abhikrishna-a/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Bit Manipulation
 |  |
