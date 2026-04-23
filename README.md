@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abhikrishna-a/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhikrishna-a/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3019-number-of-changing-keys](https://github.com/abhikrishna-a/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Trie
 |  |
 | ------- |
