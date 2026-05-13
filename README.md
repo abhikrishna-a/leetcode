@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/abhikrishna-a/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/abhikrishna-a/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/abhikrishna-a/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/abhikrishna-a/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/abhikrishna-a/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/abhikrishna-a/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/abhikrishna-a/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/abhikrishna-a/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3019-number-of-changing-keys](https://github.com/abhikrishna-a/leetcode/tree/master/3019-number-of-changing-keys) |
 ## Trie
@@ -137,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhikrishna-a/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/abhikrishna-a/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
