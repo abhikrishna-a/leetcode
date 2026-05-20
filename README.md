@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhikrishna-a/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/abhikrishna-a/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
+| [0258-add-digits](https://github.com/abhikrishna-a/leetcode/tree/master/0258-add-digits) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhikrishna-a/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -143,10 +144,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/abhikrishna-a/leetcode/tree/master/0258-add-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhikrishna-a/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhikrishna-a/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/abhikrishna-a/leetcode/tree/master/1672-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abhikrishna-a/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
