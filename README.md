@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abhikrishna-a/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/abhikrishna-a/leetcode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/abhikrishna-a/leetcode/tree/master/0258-add-digits) |
+| [1486-xor-operation-in-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/abhikrishna-a/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1486-xor-operation-in-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/abhikrishna-a/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
