@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhikrishna-a/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhikrishna-a/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/abhikrishna-a/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0682-baseball-game](https://github.com/abhikrishna-a/leetcode/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/abhikrishna-a/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abhikrishna-a/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,12 +153,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhikrishna-a/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/abhikrishna-a/leetcode/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/abhikrishna-a/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abhikrishna-a/leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/abhikrishna-a/leetcode/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/abhikrishna-a/leetcode/tree/master/0682-baseball-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/abhikrishna-a/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/abhikrishna-a/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/abhikrishna-a/leetcode/tree/master/2974-minimum-number-game) |
