@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abhikrishna-a/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/abhikrishna-a/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/abhikrishna-a/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abhikrishna-a/leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/abhikrishna-a/leetcode/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/abhikrishna-a/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/abhikrishna-a/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -201,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhikrishna-a/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhikrishna-a/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhikrishna-a/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
