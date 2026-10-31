@@ -1,0 +1,35 @@
+class Solution:
+    def myAtoi(self, s: str) -> int:
+        s = s.lstrip()
+        if not s:
+            return 0
+        
+        sign = 1
+        i = 0
+        n = len(s)
+        
+        # Check sign
+        if s[0] == '-':
+            sign = -1
+            i += 1
+        elif s[0] == '+':
+            i += 1
+            
+        result = 0
+        # Convert digits
+        while i < n and s[i].isdigit():
+            result = result * 10 + int(s[i])
+            i += 1
+            
+        result *= sign
+        
+        # Clamp to 32-bit signed integer range
+        INT_MIN = -2147483648
+        INT_MAX = 2147483647
+        
+        if result < INT_MIN:
+            return INT_MIN
+        if result > INT_MAX:
+            return INT_MAX
+            
+        return result
